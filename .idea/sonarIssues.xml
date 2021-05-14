@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../my_springboot_core/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../my_springboot_core/readme.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../my_springboot_core/src/main/java/com/pps/core/authority/security/component/handler/MyAuthentionFailHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../my_springboot_core/src/main/java/com/pps/core/authority/security/component/logincomponent/form/MyUsernamePasswordAuthenticationFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../my_springboot_core/src/main/java/com/pps/core/authority/security/config/WebSecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../my_springboot_core/src/main/java/com/pps/core/authority/security/privider/CustomLoginService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../my_springboot_freame/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../my_springboot_freame/src/main/java/com/pps/core/authority/security/mapper/SysPermissonDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../my_springboot_freame/src/main/java/com/pps/core/authority/security/mapper/SysRoleDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../my_springboot_freame/src/main/java/com/pps/core/authority/security/mapper/SysUserDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../my_springboot_freame/src/main/java/com/pps/core/datasource/MyBatisDataSourceProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../opra-adjcdr/opra-adjcdr-server/src/main/java/com/acca/opra/adjcdr/bo/JobWarnBo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../opra-adjcdr/opra-adjcdr-server/src/main/java/com/acca/opra/adjcdr/job/AdjWarnJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../opra-adjcdr/opra-adjcdr-server/src/main/java/com/acca/opra/adjcdr/service/common/callhander/CallModuleBaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../opra-adjcdr/opra-adjcdr-server/src/main/java/com/acca/opra/adjcdr/service/common/executor/AdjServiceExecutor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../opra-adjcdr/opra-adjcdr-server/src/main/java/com/acca/opra/adjcdr/service/common/impl/AdjCommonServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/SyncMovieApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/controller/ImControoller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/controller/SystemController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/controller/UserControoller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/controller/V6VideoControoller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/controller/VideoControoller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/controller/uploadController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/entity/ChunckFile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/entity/Relation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/entity/UploadRecordPo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/entity/UserInfoPo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/enums/FlagType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/enums/RelationType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/im/WebConnetionAuth.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/im/entity/ImUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/im/listener/CustomListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/mapper/RelationMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/mapper/UploadRecordMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/mapper/UserInfoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/ResourceCatchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/XinchengResouce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/ZuixinBa.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/_6vResouce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/_aikekeResouceNew.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/analy/HtmlAnaly.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/entity/ResourceStategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/moviecatch/V6Resource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/moviecatch/impl/JisuysbResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/moviecatch/impl/V6Resource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/moviecatch/impl/XinchengResouce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/moviecatch/impl/ZuixinBa.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/moviecatch/impl/_6vResouce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/moviecatch/impl/discard/XinchengResouce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/moviecatch/impl/discard/_6vResouce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/moviecatch/impl/discard/package-info.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/test/PhantomDriverUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/test/SearchPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/test/SeleiumTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/pachong/test/_6vResouceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/securitycustom/LoginServiceCusom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/securitycustom/LoginServiceCustom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/service/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/service/impl/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/pps/movie/service/impl/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/custom/TestApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/pps/movie/SyncMovieAppTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/pps/pps-http-starter/1.0-SNAPSHOT/pps-http-starter-1.0-SNAPSHOT.jar!/com/pps/http/PpsHttpUtil.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/pps/pps-http-starter/1.0-SNAPSHOT/pps-http-starter-1.0-SNAPSHOT.jar!/com/pps/http/executor/PpsHttpExcutor.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/pps/pps-http-starter/1.0-SNAPSHOT/pps-http-starter-1.0-SNAPSHOT.jar!/com/pps/http/myrequest/netty/MyNetty4ClientHttpRequestFactory.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/pps/pps_springboot_core/1.0-SNAPSHOT/pps_springboot_core-1.0-SNAPSHOT.jar!/com/pps/core/authority/security/component/logincomponent/form/CustomAuthenticationProviderForPc.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/pps/pps_springboot_core/1.0-SNAPSHOT/pps_springboot_core-1.0-SNAPSHOT.jar!/com/pps/core/authority/security/component/logincomponent/form/CustomUserDetailsServiceForPc.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/pps/pps_springboot_core/1.0-SNAPSHOT/pps_springboot_core-1.0-SNAPSHOT.jar!/com/pps/core/authority/security/config/CompoentConfig.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/pps/pps_springboot_core/1.0-SNAPSHOT/pps_springboot_core-1.0-SNAPSHOT.jar!/com/pps/core/authority/security/config/WebSecurityConfig.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/my-java-project/java8_lean/java8_lean/src/com/regex/RegexTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/my-java-project/springboot-netty-im-pps-starter/src/main/java/com/pps/websocket/server/WebSocketNettyServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/pps-java-project/pps-http-starter/src/main/java/com/pps/http/PpsHttpUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/pps-java-project/pps-http-starter/src/main/java/com/pps/http/myrequest/netty/MyNetty4ClientHttpRequestFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/pps-java-project/pps-http-starter/src/main/java/com/pps/http/myrequest/phantom/PhantomClientHttpRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/pps-java-project/pps-http-starter/src/main/java/com/pps/http/util/PhantomDriverUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/pps-java-project/pps-http-starter/src/main/java/com/pps/http/util/RegexUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

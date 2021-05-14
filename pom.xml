@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.0.4.RELEASE</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+
+    <groupId>org.example</groupId>
+    <artifactId>syncSeeMoviePlatfrom</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+
+    <dependencies>
+
+
+        <!--核心脚手架-->
+         <dependency>
+                <groupId>com.pps</groupId>
+                <artifactId>pps_springboot_core</artifactId>
+                <version>1.0-SNAPSHOT</version>
+         </dependency>
+
+
+        <!--pps-im框架-->
+        <dependency>
+            <groupId>com.pps.im</groupId>
+            <artifactId>springboot-netty-im-pps-starter</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <exclusions>
+                <exclusion>
+                    <artifactId>netty-all</artifactId>
+                    <groupId>io.netty</groupId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>4.1.45.Final</version>
+        </dependency>
+
+        <!--pps-fastsfs-stater-->
+        <dependency>
+            <groupId>com.pps</groupId>
+            <artifactId>springboot-fastdfs-pps-starter</artifactId>
+            <version>1.29-SNAPSHOT</version>
+        </dependency>
+
+        <!--pps-http-starter-->
+        <dependency>
+            <groupId>com.pps</groupId>
+            <artifactId>pps-http-starter</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+    </dependencies>
+
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
