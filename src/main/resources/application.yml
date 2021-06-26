@@ -11,7 +11,7 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource  #数据源类型
     database:                                     #数据源基本配置
       username: root
-      password: pps123
+      password: xxxxxxxxxxxxxxxxxxxx
       driver_class_name: com.mysql.cj.jdbc.Driver
       url: jdbc:mysql://120.79.204.37:3306/pps-lyt-room?useUnicode=true&characterEncoding=UTF-8&userSSL=false&serverTimezone=GMT%2B8
     mybatisConfig:
@@ -91,8 +91,8 @@ pps:
 #fastdsf 文件上传
   fastdfs:
     enable: true                         #开启自动配置
-    racker_servers: 120.79.204.37:22122  #服务器地址 如果多个 逗号分隔
-    urlPrefix: http://120.79.204.37:10000/ #访问地址前缀 可以为空
+    racker_servers: ip:22122  #服务器地址 如果多个 逗号分隔
+    urlPrefix:ip #访问地址前缀 可以为空
 #http 访问工具启动器
   http:
     enable: true
